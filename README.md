@@ -56,6 +56,7 @@ This document contains requirements and recommendations for open source projects
 
 ## Javascript project scaffolding and development
 Example of initialization and development of new project using **Angular**, **Twitter bootstrap** written in Coffeescript.
+Project is scaffolded by [Yeoman](http://yeoman.io/).
 Development on local machine is assumed.
 
 ```bash
@@ -84,3 +85,5 @@ Libraries will be downloaded into `app/components/` folder. Javascript and CSS f
 ```
 
 Read more about project scaffolding: [Yeoman](http://yeoman.io/gettingstarted.html)
+
+See [Demo Project](https://github.com/keboola/sapi-demo).
