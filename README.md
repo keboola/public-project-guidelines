@@ -49,6 +49,7 @@ This document contains requirements and recommendations for open source projects
  - [Twitter Bootstrap](http://keboola.github.com/angular-kb) - front-end framework 
  - [Underscore](http://underscorejs.org/) set of handy functions
  - [AngularJS](http://angularjs.org/) Javascript framework
+   - [Angular JS Resources and tutorials](https://github.com/kahlil/angular-resources?source=cr) 
  - Angular js modules
    - [Angular UI](http://angular-ui.github.com/) - UI directives
    - [Angular UI Bootstrap](http://angular-ui.github.io/bootstrap/) - native AngularJS directives based on Twitter Bootstrap's markup and CSS
