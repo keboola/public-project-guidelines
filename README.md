@@ -9,6 +9,9 @@ This document contains requirements and recommendations for open source projects
    - Installation and usage
    - Development of project - tests execution, build process, etc.
    - Travis build status
+ - CHANGELOG.md
+   - Changes summary for each released version
+   - [View Example](https://github.com/keboola/storage-api-php-client/blob/master/CHANGELOG.md)
  - [MIT license](http://en.wikipedia.org/wiki/MIT_License)
  - Follow [Semantic Versioning](http://semver.org/)
  - [Travis](https://travis-ci.org/) Continuous Integration
