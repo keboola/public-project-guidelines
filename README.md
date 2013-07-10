@@ -26,11 +26,13 @@ This document contains requirements and recommendations for open source projects
    - Package name must follow: `keboola/project-name`
    - Register package using the Packagist web UI
    - Set up Github service hook (Use keboola user and token)
- - Project build using ANT
+ - Project build recommended tasks
    - lint
    - phpmd
-   - phpcs - Keboola coding style check
+   - phpcs 
    - unit and e2e tests
+ - Follow coding style defined in [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md), [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) and [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) documents.
+ - Only exception of PSR rules - use **tab** character for indenting
  - Follow [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md) standard for class a namespace naming, base namespace must be `Keboola`
  - Example project: [Keboola PHP CSV](https://github.com/keboola/php-csv)
 
