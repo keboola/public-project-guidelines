@@ -11,6 +11,7 @@ This document contains requirements and recommendations for open source projects
    - Travis build status
  - CHANGELOG.md
    - Changes summary for each released version
+   - Date should be added for each release
    - [View Example](https://github.com/keboola/storage-api-php-client/blob/master/CHANGELOG.md)
  - [MIT license](http://en.wikipedia.org/wiki/MIT_License)
  - Follow [Semantic Versioning](http://semver.org/)
