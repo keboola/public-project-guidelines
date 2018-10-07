@@ -44,7 +44,7 @@ This document contains requirements and recommendations for open source projects
    - lint
    - optionally coffee
    - concat, minify
-   - unit and e2e tests -  [Karma runner](http://karma-runner.github.io/0.8/index.html) and [Jasmine](http://pivotal.github.com/jasmine/)
+   - unit and e2e tests -  [Karma runner](http://karma-runner.github.io/0.8/index.html) and [Jasmine](https://jasmine.github.io/)
  - Github pages pages with live demos
  - Coffeescript
  - Example project: [Angular KB](https://github.com/keboola/angular-kb)
