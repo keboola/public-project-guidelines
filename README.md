@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS DEPRECATED
+
 # Keboola Public Projects Guidelines
 
 This document contains requirements and recommendations for open source projects, specifically for PHP a Javascript projects.
